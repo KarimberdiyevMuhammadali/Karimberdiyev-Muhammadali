@@ -1,0 +1,126 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.main-section-6 {
+    width: 100%;
+    height: 404px;
+    /* background-color: green; */
+}
+
+.partner-brands {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 124px;
+    margin-bottom: 20px;
+    /* background-color: red; */
+}
+
+.brands svg path {
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+
+
+}
+
+.brands svg path:hover {
+    fill: #FFA62B;
+}
+
+.subscribe {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 124px;
+    /* background-color: blue; */
+    background-color: #00A0C1;
+}
+
+.subscribe h3 {
+    width: 258px;
+    color: var(--light-text-color, #FFF);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    margin-left: 50px;
+}
+
+.subs-btn {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.subs-btn input {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 450px;
+    padding: 15px 15px 20px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border: 1px solid #E6E6E6;
+    background: #F9F9F9;
+}
+
+.subs-btn input:focus {
+    outline: none;
+}
+
+.subs-btn button {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 117px;
+    height: 58px;
+    padding: 15px 22.5px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid #E6E6E6;
+    background: var(--primary-color, #FFA62B);
+    margin-right: 50px;
+}
+
+.subs-btn button a {
+    color: var(--light-text-color, #FFF);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+}
+
+/* ----------------main-section-6-ended--------------------- */
+/* ----------------main-section-6-ended--------------------- */
+/* ----------------main-section-6-ended--------------------- */

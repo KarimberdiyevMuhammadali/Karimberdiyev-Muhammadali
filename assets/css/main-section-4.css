@@ -1,0 +1,132 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.main-section-4 {
+    max-width: 100%;
+    background: #FAFAFA;
+    /* background-color: #00A0C1; */
+}
+
+.advice {
+    width: 100%;
+    height: 800px;
+    /* background-color: green; */
+    /* background: #FAFAFA; */
+}
+
+.advice .content-1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    height: 300px;
+    /* background-color: orange; */
+    padding-bottom: 30px;
+}
+
+.advice .content-1 h2 {
+    color: var(--text-color, #252B42);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.advice .content-1 p {
+    max-width: 470px;
+    text-align: center;
+    color: var(--second-text-color, #737373);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    padding-top: 8px;
+}
+
+.advice .content-2 {
+    width: 100%;
+    height: 355px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
+
+.advice-content-2-boxes {
+    width: 230px;
+    height: 321px;
+
+    background-color: #fff;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.advice-content-2-boxes:hover {
+    /* box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+    /* box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45), -25px 0 20px -20px rgba(0, 0, 0, 0.45); */
+    -webkit-box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+    box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+}
+
+.advice-content-2-boxes .text-box {
+    width: 231px;
+    height: 183px;
+    /* background-color: antiquewhite; */
+}
+
+.advice-content-2-boxes .img-box {
+    width: 230px;
+    height: 138px;
+    /* background-color: pink; */
+}
+
+.advice-content-2-boxes .text-box {
+    padding: 30px;
+}
+
+.advice-content-2-boxes .text-box h5 {
+    width: 130px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: var(--text-color, #252B42);
+    padding-bottom: 15px;
+}
+
+.advice-content-2-boxes .text-box p {
+    width: 177px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: var(--second-text-color, #737373);
+}
+
+/* --------main-section-4-ended--------------- */
+/* --------main-section-4-ended--------------- */
+/* --------main-section-4-ended--------------- */
